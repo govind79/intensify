@@ -38,8 +38,9 @@ body{
     padding:0.5em 0.7em;
 }
 
+
 a:hover{
-    font-size:1.5em;
+    font-size:1em;
     color:rgb(230, 144, 144);
     text-decoration: none;
 }
